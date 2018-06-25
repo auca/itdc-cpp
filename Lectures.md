@@ -4,7 +4,7 @@
 
 #### Structured Programming
 
-* Lecture #1: Introduction
+* [Lecture #1: Introduction](https://docs.google.com/presentation/d/1xUvfcyerZ-XfdhkmkOgr2W8RvNet26WtWdRZl3UQJtw)
 * Lecture #2; Elementary Programming
 * Lecture #3: Selections
 * Lecture #4: Loops
