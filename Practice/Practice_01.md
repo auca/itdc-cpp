@@ -28,7 +28,7 @@ F:\
 
 ## Tools
 
-### Compiler Bundles for Windows and macOS
+### Compiler Distributions for Windows and macOS
 
 * [MSYS2](https://www.msys2.org)
 * [Command Line Tools for Xcode](https://developer.apple.com/download/more)
@@ -51,7 +51,7 @@ Write a program that outputs the "hello, world" message to the screen.
 hello, world
 ```
 
-## Task #2: Message in an Box
+## Task #2: Message in a Box
 
 Print the message from the previous task inside of a box of `*` characters.
 
