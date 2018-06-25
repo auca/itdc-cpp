@@ -111,7 +111,7 @@ The volume of the parallelepiped of size 4 x 3 x 5 is equal to 60.
 
 1. Create and account at two online judge systems.
     * MCCME: <http://informatics.mccme.ru>
-    * URI: <https://www.urionlinejudge.com.br/judge/en/login>
+    * URI: <https://www.urionlinejudge.com.br>
 2. Start working on the first set of task at MCCME: <http://informatics.mccme.ru/mod/statements/view.php?id=2296>
 3. Start working on the first 25 tasks at URI: <https://www.urionlinejudge.com.br/judge/en/problems/index/1>
 
