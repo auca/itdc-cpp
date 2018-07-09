@@ -16,7 +16,7 @@ Announcements, student questions and answers
 
 The screen of the instructor's machine
 
-* <https://hangouts.google.com/hangouts/_/ytl/Nx4_A6bRTyIQ8y5QKKGAT5ArkIbAX51Bspz4T0dPU7k=>
+* <https://hangouts.google.com/hangouts/_/ytl/uwjm92lhFhv-Fmdr_EHC7orjhCslwY6qf79agemCTKc=?hl=en_US>
 
 ## Recordings
 
