@@ -101,6 +101,57 @@ Enter the length of the third side: 5
 The volume of the parallelepiped of size 4 x 3 x 5 is equal to 60.
 ```
 
+## Task #6: Swap Two Numbers
+
+Create a program that reads two numbers into two variables `a` and `b`.
+The program should print the values stored inside the variables, then
+swap them, then print the values again.
+
+### Example
+
+```cpp
+Enter the first value: 2
+Enter the second value: 3
+Before swapping: a = 2; b = 3;
+After swapping: a = 3; b = 2;
+```
+
+## Task #7: Swap Two Numbers (2)
+
+Modify the program from task #6 to only use 2 variables to swap numbers.
+
+## Task #8: Sum of Digits
+
+Read a four-digit integer from the user and find the sum of all its digits.
+
+```cpp
+Enter a four-digit integer: 1237
+The sum of all its digits is 13
+```
+
+## Task #9: Inches to Centimeters Conversion
+
+Create an application that converts a specific value consumed from the console from
+inches to centimeters.
+
+Note that 1 in. equals to 2.54 cm.
+
+```cpp
+Enter the length in inches: 17
+17 in. = 43.18 cm.
+```
+
+## Task #10: Fahrenheit to Celsius Conversion
+
+Create an application that can perform Fahrenheit to Celsius conversion.
+
+`[°C] = 5⁄9 * ([°F] − 32)`
+
+```cpp
+Enter the temperature in degrees Fahrenheit: 114
+The temperature in degrees Celsius is 45.56
+```
+
 ## Homework
 
 ### Reading
